@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Muhammad Husnain Ali 👋
 
-<!--
-**muhammad-husnain-ali-web/muhammad-husnain-ali-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate learner and aspiring **Full-Stack Web Developer** from Pakistan.  
+I enjoy solving problems, building projects, and improving step by step every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ​ What I’m Learning
+- Frontend development with **React & Next.js**
+- Backend with **Node.js & MongoDB**
+- Clean and modern **UI design** (by studying and cloning real-world e-commerce websites)
+
+---
+
+## ​ Goals
+- Build practical and real-world web projects
+- Contribute to open-source in the future
+- Keep growing as a developer with consistency
+
+---
+
+## ​​ Tech Stack
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Next.js, Redux Toolkit
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## ​ Connect With Me
+- **Email:** your-email@example.com
+- **GitHub:** [github.com/muhammad-husnain-ali-web](https://github.com/muhammad-husnain-ali-web)
+
+---
+
+💡 *“Every error is a new step forward.”*
