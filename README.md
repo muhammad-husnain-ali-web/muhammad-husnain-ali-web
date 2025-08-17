@@ -28,7 +28,7 @@ I like to solve problems, build projects, and learn new things every day.
 ---
 
 ## Connect With Me
-- **Email:** your-email@example.com  
+- **Email:** mhusnainali913.com  
 - **GitHub:** [github.com/muhammad-husnain-ali-web](https://github.com/muhammad-husnain-ali-web)  
 
 ---
